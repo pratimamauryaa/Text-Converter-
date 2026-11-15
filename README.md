@@ -1,16 +1,52 @@
-# React + Vite
+# TextUtils – Text Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+TextUtils is a simple and user-friendly text utility web application built using React.js and Bootstrap.
 
-Currently, two official plugins are available:
+It allows users to perform different text operations easily with a clean and responsive user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Convert text into Uppercase.
+- Convert text into Lowercase.
+- Clear text from the text area.
+- Copy text to clipboard.
+- Remove extra spaces from text.
+- Count total words and characters.
+- Calculate estimated reading time.
+- Responsive Navbar.
+- Clean and simple user interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap 5
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📸 Project Preview
+
+TextUtils provides a simple interface where users can enter text and perform different text conversion operations.
+
+## 🎯 Learning Outcomes
+
+Through this project, I practiced:
+
+- React Functional Components.
+- React useState Hook.
+- Props in React.
+- Event Handling.
+- Handling user input.
+- Conditional rendering.
+- Working with Bootstrap.
+
+## 👩‍💻 Developer
+
+Created by **Pratima Maurya**
+
+MCA Pursuing | Aspiring Software Developer
+
+---
+
+⭐ If you like this project, feel free to explore the repository!
