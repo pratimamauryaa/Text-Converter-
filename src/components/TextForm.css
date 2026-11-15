@@ -1,0 +1,46 @@
+
+.text-form-container {
+  width: 85%;
+  margin: 35px auto;
+  text-align: center;
+}
+
+.text-form-container h1 {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #212529;
+}
+
+.text-form-container textarea {
+  width: 100%;
+  min-height: 250px;
+  padding: 15px;
+  font-size: 18px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  resize: vertical;
+}
+
+.text-form-container textarea:focus {
+  outline: none;
+  border-color: #0d6efd;
+  box-shadow: 0 0 5px rgba(13, 110, 253, 0.3);
+}
+
+.text-form-container button {
+  padding: 10px 20px;
+  margin: 8px;
+  font-size: 16px;
+  border-radius: 7px;
+}
+
+@media (max-width: 768px) {
+  .text-form-container {
+    width: 95%;
+  }
+
+  .text-form-container h1 {
+    font-size: 30px;
+  }
+}
