@@ -9,10 +9,7 @@ It allows users to perform different text operations easily with a clean and res
 - Convert text into Uppercase.
 - Convert text into Lowercase.
 - Clear text from the text area.
-- Copy text to clipboard.
-- Remove extra spaces from text.
-- Count total words and characters.
-- Calculate estimated reading time.
+-
 - Responsive Navbar.
 - Clean and simple user interface.
 
